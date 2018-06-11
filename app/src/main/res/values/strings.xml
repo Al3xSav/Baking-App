@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="img_info">Recipe image</string>
+
+    <!-- Internet Messages -->
+    <string name="internet_connection">Please Check Your Internet Connection</string>
+    <string name="load_recipe_error">Recipe failed to load</string>
+
+    <!-- Basic texts for the app -->
+    <string name="servings">Servings: %d</string>
+    <string name="step">Step %d</string>
+    <string name="data_for_widget">Recipes data for widget</string>
+    <string name="title_recipe_step_detail">Recipe Step Detail</string>
+    <string name="ingredients">Ingredients</string>
+
+    <!-- Hints -->
+    <string name="counter_hint">No. </string>
+    <string name="recipe_step_hint">Step Title</string>
+    <string name="recipe_title_hint">Recipe Title</string>
+    <string name="ingredients_hint">Ingredients Details</string>
+
+    <!-- Widgets -->
+    <string name="add_to_widget">+ Add to widget</string>
+    <string name="widget_key">widget_key</string>
+    <string name="added_to_widget">Recipe %s added to widget</string>
+</resources>
