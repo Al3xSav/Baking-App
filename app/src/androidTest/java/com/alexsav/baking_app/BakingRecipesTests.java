@@ -61,7 +61,7 @@ public class BakingRecipesTests extends BaseTest {
 
         Navigation.getMeToRecipeInfo(0);
 
-        onView(withId(R.id.ingredients_text_view))
+        onView(withId(R.id.textViewIngredients))
                 .check(matches(isDisplayed()));
 
         onView(withId(R.id.recyclerViewStepList))
@@ -88,7 +88,7 @@ public class BakingRecipesTests extends BaseTest {
         } else {
             Navigation.selectRecipeStep(1);
 
-            onView(withId(R.id.exo_player_view))
+            onView(withId(R.id.exoPlayerView))
                     .check(matches(isDisplayed()));
         }
     }
