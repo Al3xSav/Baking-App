@@ -16,7 +16,7 @@ In this project you will:
 # App Description
 Your task is to create a Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
 
-<img scr="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/pixlr_20180903135213758.jpg?raw=true" height="500" width="450">
+<img src="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/pixlr_20180903135213758.jpg?raw=true" height="500" width="450">
 
 <a href="https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json">The recipe listing is located here.</a>
 
@@ -26,8 +26,8 @@ One of the skills you will demonstrate in this project is how to handle unexpect
 
 # Screenshots
 
-<img scr="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326037.png?raw=true" height="500" width="350"><br/><br/>
-<img scr="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326050.png?raw=true" height="500" width="350"><br/><br/>
-<img scr="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326073.png?raw=true" height="500" width="350"><br/><br/>
+<img src="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326037.png?raw=true" height="500" width="350"><br/><br/>
+<img src="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326050.png?raw=true" height="500" width="350"><br/><br/>
+<img src="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/Screenshot_1538326073.png?raw=true" height="500" width="350"><br/><br/>
 
 ## Download <a href="https://github.com/Al3xSav/Baking-App/blob/master/screeshots/bakingrecipes.apk?raw=true">Baking Recipes APK</a>
